@@ -10,3 +10,5 @@ POC for a simple browser plugin. Supports Firefox and Chrome.
   2. HTML file
   3. JS if needed
 ```
+
+For a bit more complex plugin that uses react & vite is available [here](https://github.com/pagarevijayy/vPlugin-extension).
